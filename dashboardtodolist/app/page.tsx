@@ -1,9 +1,10 @@
+import { Button } from "@/components/ui/button";
 
 
 export default function Home() {
   return (
     <div className='m-12'>
-      Dashboard TO DO LIST
+      <Button>Dashboard TO DO LIST</Button>
     </div>
   )
 }

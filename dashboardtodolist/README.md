@@ -36,3 +36,5 @@ Este é um aplicativo de lista de tarefas (To-Do List) desenvolvido com Next.js 
 
 Para suporte, mande um email para rodolpho.baltazar@hotmail.com
 
+
+
